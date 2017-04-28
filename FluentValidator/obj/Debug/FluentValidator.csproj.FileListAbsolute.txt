@@ -1,0 +1,5 @@
+D:\projetos\4Net\FluentValidator\FluentValidator\bin\Debug\FluentValidator.dll
+D:\projetos\4Net\FluentValidator\FluentValidator\bin\Debug\FluentValidator.pdb
+D:\projetos\4Net\FluentValidator\FluentValidator\obj\Debug\FluentValidator.csprojResolveAssemblyReference.cache
+D:\projetos\4Net\FluentValidator\FluentValidator\obj\Debug\FluentValidator.dll
+D:\projetos\4Net\FluentValidator\FluentValidator\obj\Debug\FluentValidator.pdb
